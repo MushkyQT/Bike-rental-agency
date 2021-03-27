@@ -1,0 +1,17 @@
+body {
+    background-color: #292929;
+    color: white;
+}
+
+.btn-success {
+    background-color: #bb86fc;
+    border-color: #7f39fb;
+}
+
+.validate {
+    background-color: rgba(127, 57, 251, 0.7);
+}
+
+hr {
+    border-color: gray;
+}
